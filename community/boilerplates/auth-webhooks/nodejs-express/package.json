@@ -10,8 +10,8 @@
   "author": "wawhal",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "firebase-admin": "^5.12.1",
+    "express": "^4.22.0",
+    "firebase-admin": "^9.0.0",
     "request": "^2.87.0"
   }
 }
