@@ -9,7 +9,7 @@
     "graphql": "^0.13.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.0",
     "subscriptions-transport-ws": "^0.9.12"
   },
   "scripts": {
